@@ -2,7 +2,7 @@
     background-color:rgba(247, 70, 70, 0.911);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.second-element {
+#second {
     color: blue;
     font-size:36px;
 }
@@ -10,7 +10,7 @@
     font-size:24px;
     
 }
-.four {
+#four {
     background-color: #59ff33;
     font-size:24px;
     font-weight:bold;
